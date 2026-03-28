@@ -1,0 +1,42 @@
+{
+    "franck jjj": {
+        "1": {
+            "show information": true
+        },
+        "2": {
+            "edit password": true
+        },
+        "3": {
+            "client list": true
+        },
+        "4": {
+            "delete client": false
+        },
+        "5": {
+            "locked out client": true
+        },
+        "6": {
+            "show clients transactions": false
+        }
+    },
+    "marko cris": {
+        "1": {
+            "show information": true
+        },
+        "2": {
+            "edit password": true
+        },
+        "3": {
+            "client list": true
+        },
+        "4": {
+            "delete client": true
+        },
+        "5": {
+            "locked out client": true
+        },
+        "6": {
+            "show clients transactions": true
+        }
+    }
+}
