@@ -6,7 +6,6 @@ import time
 import json 
 import bcrypt
 
-#0VU98PE5uP
 
 
 
@@ -339,8 +338,7 @@ class BankSystem:
                 
     
 
-    #RYYriiie#43trw
-
+    
 
 
     # Assign predefined permission type (operator/admin) to worker
